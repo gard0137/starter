@@ -2,4 +2,4 @@
 
 ###### This is is our first assignment using github! 
 
-https://github.com/gard0137/index.html
+https://gard0137.github.io/starter/index.html
